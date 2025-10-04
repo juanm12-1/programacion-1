@@ -1,6 +1,6 @@
 public class Numeropar {
     public static void main(String[] args) {
-        int numero = 56;
+        int numero = 58;
         if (numero % 2==0) {
             System.out.println(numero + " es un numero par." );
             }else{ 

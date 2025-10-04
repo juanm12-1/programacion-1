@@ -7,7 +7,7 @@ public class DivisorDeNumero {
         System.out.println("Ingrese el primer numero (posible divisor):");
         int numero1 = entrada.nextInt();
 
-        System.out.println("Ingrese el segundo numero (dividendo):");
+        System.out.println("Ingrese el segundo numer(dividendo):");
         int numero2 = entrada.nextInt();
 
         if (numero2 % numero1 == 0) {
